@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 // 코드의 시작점
 void main() {
-  // 루투 위젯을 만들어 주는 함수
+  // 루트 위젯을 만들어 주는 함수
   runApp(const MyApp());
 }
 
